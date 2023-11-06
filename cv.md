@@ -1,7 +1,9 @@
 # Anna Galkevich
-*Frontend Developer*
+
+### Frontend Developer
 
 **Contact Information:**
+
 - email: emikot321@gmail.com
 - telegram: @anntere
 - [GitHub](https://github.com/itsannaw)
@@ -27,21 +29,25 @@ I'm Frontend Developer with a passion for creating user-friendly and visually ap
 DESCRIPTION:
 Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
 
-> function moveZeros(arr) {
-> let zeros = [];
-> arr = arr.filter(item => (item !== 0 ? true : zeros.push(item) && false))
-> return arr.concat(zeros)
->}
+```javascript
+ function moveZeros(arr) {
+    let zeros = [];
+    arr = arr.filter(item => (item !== 0 ? true : zeros.push(item) && false))
+    return arr.concat(zeros)
+ }
+```
+
 
 ## Work Experience
 
 ### Intern Developer
-**Itransition | Minsk, Belarus | 2023/10 - to date
-- Built applications using React and Ruby on Rails (such as drawing board, authorization and registration, etc.)
+
+**Itransition | Minsk, Belarus | 2023/10 - to date**
+Built applications using React and Ruby on Rails (such as drawing board, authorization and registration, etc.)
 
 ## Education
 
-- Vitebsk State Academy of Veterinary Medcine | 2016-2021
+Vitebsk State Academy of Veterinary Medcine | 2016-2021
 
 ## Courses
 
@@ -52,4 +58,3 @@ Write an algorithm that takes an array and moves all of the zeros to the end, pr
 
 - Russian - Native
 - English - Intermediate (B1)
-
