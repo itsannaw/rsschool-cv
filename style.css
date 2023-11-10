@@ -1,0 +1,68 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+  }
+
+  header {
+    text-align: center;
+  }
+
+  header h1 {
+    margin: 0;
+  }
+
+  header p {
+    margin-top: 5px;
+    color: #666;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  #summary,
+  #skills,
+  #code-example,
+  #work-experience,
+  #education,
+  #courses,
+  #languages {
+    margin-top: 20px;
+  }
+
+  pre {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+  }
+
+  code {
+    color: #d63384;
+  }
+
+  article {
+    margin-top: 15px;
+  }
+
+  article h3 {
+    margin: 0;
+  }
+
+  article p {
+    color: #666;
+  }
+
+  h2 {
+    color: #007bff;
+  }
